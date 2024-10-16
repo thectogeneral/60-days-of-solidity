@@ -1,3 +1,5 @@
+**Objective**: Learn about Solidity data types.
+
 Solidity supports several data types, including:
 
     •	uint: Unsigned integer (non-negative).
